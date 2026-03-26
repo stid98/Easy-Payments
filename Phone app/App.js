@@ -8,9 +8,6 @@ callButton.addEventListener('click', displayMessage);
 hideButton.addEventListener('click', hideWrapper);
 
 function displayMessage(){
-    function fullScreenDisplay(){
-        body.requestFullscreen();
-    }
     let message = '';
     let amount = prompt('Enter amount to pay');
     let payee = prompt('Name of payee');
