@@ -12,7 +12,7 @@ function displayMessage(){
     let amount = prompt('Enter amount to pay');
     let payee = prompt('Name of payee');
     let code = prompt('Enter code to pay to');
-    message = `Yello. Wishyuye ${amount} kuri ${payee}, ${code}. ikiguzi 0 RWF. Transaction ID 27304365584. Konti yawe ya mobile money usigaranye no 25200 RWF.`;
+    message = `Yello. Wishyuye ${amount} kuri ${payee}, ${code}. ikiguzi 0 RWF. Transaction ID 27404365584. Konti yawe ya mobile money usigaranye no 22150 RWF.`;
     messageOut.textContent = message;
     wrapper.style.display = 'flex';
 }
