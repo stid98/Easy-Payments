@@ -55,6 +55,30 @@ body{
     border-radius: 50%;
     text-align: center;
 }
+.two{
+    background-color: rgb(25, 100, 240, 0.6);
+    padding: 1px 10px;
+    border-radius: 50%;
+    text-align: center;
+}
+.three{
+    background-color: rgb(25, 100, 240, 0.6);
+    padding: 1px 10px;
+    border-radius: 50%;
+    text-align: center;
+}
+.four{
+    background-color: rgb(25, 100, 240, 0.6);
+    padding: 1px 10px;
+    border-radius: 50%;
+    text-align: center;
+}
+.five{
+    background-color: rgb(25, 100, 240, 0.6);
+    padding: 1px 10px;
+    border-radius: 50%;
+    text-align: center;
+}
 .delete-btn{
     display: flex;
     justify-content: right;
