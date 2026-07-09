@@ -57,13 +57,13 @@ body{
 }
 .two{
     background-color: rgb(25, 100, 240, 0.6);
-    padding: 1px 10px;
+    padding: 1px 13px;
     border-radius: 50%;
     text-align: center;
 }
 .three{
     background-color: rgb(25, 100, 240, 0.6);
-    padding: 1px 10px;
+    padding: 1px 13px;
     border-radius: 50%;
     text-align: center;
 }
@@ -75,7 +75,7 @@ body{
 }
 .five{
     background-color: rgb(25, 100, 240, 0.6);
-    padding: 1px 10px;
+    padding: 1px 8px;
     border-radius: 50%;
     text-align: center;
 }
