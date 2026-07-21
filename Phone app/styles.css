@@ -171,6 +171,7 @@ body{
 }
 .wrapper-for-message p{
     padding: 5px;
+    font: 12px;
 }
     .wrapper-title{
     font-weight: 200;
